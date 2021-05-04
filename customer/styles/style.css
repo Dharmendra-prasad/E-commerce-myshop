@@ -1,0 +1,35 @@
+body{
+	background-color: #000;
+}
+
+.one{
+	background-color: #7f8c8d;
+}
+.two{
+	background-color: #ecf0f1;
+}
+
+.side_title{
+	background-color:#fff;
+	padding: 10px;
+	font-size: 22px; 
+
+}
+
+#cats a{
+	color:#fff;
+	padding: 10px;
+	text-align: center;
+}
+#cats li{
+	margin: 8px;
+}
+#cats a:hover{
+	color:#2c3e50;
+}
+#headline{
+	background-color: grey;
+	float: right;
+	margin:10px;
+	font-size: 30px;
+}
